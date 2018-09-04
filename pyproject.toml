@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hipaasat"
+version = "0.1.0"
+description = ""
+authors = ["Miller Wilt <miller.wilt@jhuapl.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.5"
+typing = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+mypy = "^0.620.0"
